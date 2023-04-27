@@ -63,19 +63,11 @@ public class MainActivity2 extends AppCompatActivity implements UserAdapterAC2.S
         switch (getChemgeItemPosition){
             case 1: {
 
-                textViewSelectedChapterName.setText("I BOB. Adib hikoyalarida xarakter va milliy ruh");
-
-                modelRcyclers.add(new ModelRcycler("1.1.  Milliylik: xarakter va ruhiyat birligi","https://github.com/asadbekakmedov2001/SobirjonBazarov/raw/main/app/src/main/assets/1.1bob.docx"));
-                modelRcyclers.add(new ModelRcycler("1.2.  Adib hikoyalarida ruhiyat tasviri","https://github.com/asadbekakmedov2001/SobirjonBazarov/raw/main/app/src/main/assets/1.2bob.docx"));
 
             }break;
             case 2: {
 
-                textViewSelectedChapterName.setText("II.BOB. Normurod Norqobil asarlarining o‘ziga xos jihatlari");
-
-                modelRcyclers.add(new ModelRcycler("2.1. Adib asarlarida bosh qahramonning individual tabiati talqini","https://github.com/asadbekakmedov2001/SobirjonBazarov/raw/main/app/src/main/assets/2.1bob.docx"));
-                modelRcyclers.add(new ModelRcycler("2.2.  Adib asarlarida tabiat tasviri","https://github.com/asadbekakmedov2001/SobirjonBazarov/raw/main/app/src/main/assets/2.2bob.docx"));
-
+               
             }break;
         }
 

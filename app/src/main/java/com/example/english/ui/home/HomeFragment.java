@@ -49,18 +49,18 @@ public class HomeFragment extends Fragment implements UserAdapter.SelectedUser {
     }
 
     private void initial() {
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm1,"PREFACE                                                        ","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/PREFACE.docx"));
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm2,"1. The subject matter of stylistics                             ","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/stylistics1.docx"));
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm3,"2. Stylistic classification of the English vocabulary          ","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/stylistics2.docx"));
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm4,"3. Phonetic expressive means and stylistic devices             ","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/stylistics3.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm0 ,"PREFACE                                                        ","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/PREFACE.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm1,"1. The subject matter of stylistics                             ","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/stylistics1.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm2,"2. Stylistic classification of the English vocabulary          ","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/stylistics2.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm3,"3. Phonetic expressive means and stylistic devices             ","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/stylistics3.docx"));
         modelRcyclers.add(new ModelRcycler(R.drawable.rasm4,"4. Lexical expressive means and stylistic devices              ","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/stylistics4.docx"));
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm4,"5. Lexical - syntаcticаl expressive means and stylistic devices","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/stylistics5.docx"));
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm4,"6. Syntactical expressive means and stylistic devices          ","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/stylistics6.docx"));
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm4,"7. Functional styles                                           ","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/stylistics7.docx"));
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm4,"8. Text Interpretation                                         ","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/stylistics8.docx"));
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm4,"9. Text Interpretation                                         ","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/stylistics9.docx"));
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm4,"Appendix                                                       ","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/Appendix.docx"));
-        modelRcyclers.add(new ModelRcycler(R.drawable.rasm4,"References                                                     ","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/References.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm5,"5. Lexical - syntаcticаl expressive means and stylistic devices","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/stylistics5.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm6,"6. Syntactical expressive means and stylistic devices          ","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/stylistics6.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm7,"7. Functional styles                                           ","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/stylistics7.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm8,"8. Text Interpretation                                         ","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/stylistics8.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm9,"9. Text Interpretation                                         ","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/stylistics9.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm10,"Appendix                                                       ","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/Appendix.docx"));
+        modelRcyclers.add(new ModelRcycler(R.drawable.rasm11,"References                                                     ","","https://github.com/asadbekakmedov2001/EnglishStylistics/raw/main/app/src/main/assets/References.docx"));
 
     }
 
