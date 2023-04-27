@@ -67,7 +67,7 @@ public class MainActivity2 extends AppCompatActivity implements UserAdapterAC2.S
             }break;
             case 2: {
 
-               
+
             }break;
         }
 
